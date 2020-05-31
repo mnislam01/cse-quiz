@@ -1,5 +1,7 @@
 # quiz
 
+## URL: https://gifted-gates-8f986f.netlify.app/
+
 ## Project setup
 ```
 npm install
